@@ -51,10 +51,6 @@ These are the non-package requirements to run this application.
 
 **ADVANCED USER NOTICE:** If you are familiar with configuration files, feel free to modify the included `config.ini` file to fully utilize our application!
 
-## 🎥 Demonstration
-
-![](assets/Demo.gif)
-
 ### 📊 Results
 
 ![](assets/Demo-Result.JPG)
